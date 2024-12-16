@@ -100,9 +100,9 @@
 }
 
 /* Changes color-mode based on what theme the browser states */
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: white) {
 	:root {
-		--color-mode: dark;
+		--color-mode: white;
 	}
 }
 
